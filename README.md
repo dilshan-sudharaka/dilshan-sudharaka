@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dilshansudarak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilshansudarak1" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/dilshan sudharaka](https://www.linkedin.com/in/dilshan-sudharaka-a2a16020b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan sudharaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilshan-sudharaka-a2a16020b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan sudharaka" height="30" width="40" /></a>
 <a href="https://fb.com/dilshan sudaraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshan sudaraka" height="30" width="40" /></a>
 <a href="https://instagram.com/dilshansudaraka_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshansudaraka_98" height="30" width="40" /></a>
 </p>
