@@ -28,7 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sudharaka&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sudharaka)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sudharaka)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sudharaka&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
