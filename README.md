@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dilshan Sudharaka</h1>
-<h3 align="center">I'm an IT Undergraduate, Developer and Freelancer!!</h3>
+<h3 align="center">Full-Stack Software Engineer | BSc (Hons) in IT (Software Engineering)</h3>
 
-- 🔭 I’m currently studying as a **undergraduate student at SLIIT**
+- 🧑‍💻 I’m a **Full-Stack Developer** with 2 years of professional experience in **React, Node.js, NestJS, PostgreSQL, and more**.
 
-- 🌱 I’m currently learning **Flutter app development framework**
+- 🎓 I hold a **BSc (Hons) in Information Technology**, specialized in **Software Engineering** from **SLIIT**.
 
-- 👯 I’m looking to collaborate **more to Open Source projects**
+- 🌱 Currently exploring **AI integrations**, **mobile app development**, and **performance optimization**.
 
-- 🥅 2022 Goal is Learn more about **mobile app development frameworks**
+- 🚀 Passionate about building scalable applications, writing clean code, and contributing to **open source projects**.
 
-- 💬 Ask me about **Android, Flutter and Ionic**
+- 📫 Reach me at: **dilshansudaraka98@gmail.com**
 
-- 📫 How to reach me **dilshansudaraka98@gmail.com**
-
-- ⚡ Fun fact **I love to draw and play guitar**
+- ⚡ Fun fact: When I’m not coding, I enjoy **drawing and playing guitar** 🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
