@@ -101,6 +101,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-sudharaka&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dilshan-sudharaka&theme=dark)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshan-sudharaka&show_icons=true&theme=tokyonight&locale=en" alt="dilshan-sudharaka" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dilshan-sudharaka&theme=dark)](https://git.io/streak-stats)
