@@ -103,7 +103,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshan-sudharaka&show_icons=true&theme=tokyonight&locale=en" alt="dilshan-sudharaka" /></p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=dilshan-sudharaka&theme=dark" alt="dilshan-sudharaka" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dilshan-sudharaka&theme=dark" alt="dilshan-sudharaka" />
 </p>
+
 
