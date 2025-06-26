@@ -105,7 +105,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshan-sudharaka&show_icons=true&theme=tokyonight&locale=en" alt="dilshan-sudharaka" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dilshan-sudharaka&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=dilshan-sudharaka&theme=dark" alt="GitHub Streak" /></a>
 
 
 
